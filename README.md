@@ -14,4 +14,4 @@ Random, silly, small projects and bits of code that I want to show off and docum
 | [**Matplotlib**](./matplotlib) | Random matplotlib stuff | `NumPy` `matplotlib` | 07-2026 |
 | [**ASCII W Generator**](./W-generator) | Scripts that generate big ASCII Ws quickly. I might revisit this after learning lower-level languages and optimisations | `challenge` | 03-2026 |
 
-PS: "challenge" means my attempts at writing an optimised solution to a simple problem
+**PS:** "challenge" means my attempts at writing optimised solutions to a simple problem
