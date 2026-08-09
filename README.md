@@ -6,7 +6,7 @@
 
 Random, silly, small projects and bits of code that I want to show off and document but don't require a whole repo.
 
-<p><strong><font size="5">Table of contents</font></strong></p>
+<p><strong><font size="6">Table of contents</font></strong></p>
 
 | Thing | Description | Tags | Date |
 | :--- | :--- | :--- | :--- |
