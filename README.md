@@ -14,4 +14,5 @@ Random, silly, small projects and bits of code that I want to show off and docum
 | [**Conway's Game of Life**](./game-of-life) | Optimised with NumPy broadcasting. 270x speed improvement compared to native Python loops :o | `NumPy` `fun` | 08-26 |
 | [**Matplotlib**](./matplotlib) | Random matplotlib stuff | `NumPy` `matplotlib` | 07-26 |
 | [**ASCII W Generator**](./W-generator) | Scripts that generate big ASCII Ws quickly. I might revisit this after learning lower-level languages and optimisations | `challenge` | 03-26 |
+
 **PS:** "challenge" means my attempts at writing optimised solutions to a simple problem
